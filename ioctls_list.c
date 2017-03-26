@@ -5,12 +5,6 @@
 #include "ioctls_list.h"
 #include <asm-generic/ioctls.h>
 #include <rdma/ib_user_mad.h>
-#include <alsa/sound/sscape_ioctl.h>
-#include <alsa/sound/hdspm.h>
-#include <alsa/sound/asound_fm.h>
-#include <alsa/sound/hdsp.h>
-#include <alsa/sound/sb16_csp.h>
-#include <alsa/sound/emu10k1.h>
 #include <drm/drm.h>
 #include <mtd/mtd-abi.h>
 #include <mtd/ubi-user.h>
