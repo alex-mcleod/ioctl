@@ -88,7 +88,6 @@
 #include <linux/atm_tcp.h>
 #include <linux/atm_eni.h>
 #include <linux/uvcvideo.h>
-#include <linux/nvme.h>
 #include <linux/hpet.h>
 #include <linux/sonypi.h>
 #include <linux/udf_fs_i.h>
